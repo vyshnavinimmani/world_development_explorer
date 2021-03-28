@@ -40,7 +40,7 @@ When comparing life expectancy within high income countries and low income count
 ![image](https://user-images.githubusercontent.com/78320047/112743678-61ca8d80-8f67-11eb-9976-002daeb94c8d.png)
 
 
-> CONCLUSION
+> **CONCLUSION**
 
 It is observed that inflation,consumer prices (annual % ) has indirect relation with Life Expectancy of population. Inflation was high in developing countries like India, Bangladesh which had low life expectancy . Whereas in developed nations like Germany and United States Inflation was low and Life Expectancy was high.
 
@@ -51,7 +51,7 @@ It is observed that inflation,consumer prices (annual % ) has indirect relation 
 To check the table data please visit <http://www.worlddev.xyz/> and data clearly shows that high income developed countries with higher GDP has high Life expectancy compared to low income developing countries with lower GDP.
 
 
-> REFERENCES
+> **REFERENCES**
 
 <http://www.worlddev.xyz/>
 
