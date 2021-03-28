@@ -1,6 +1,6 @@
 # WORLD DEVELOPMENT EXPLORER
 >## Introduction
-With using World Development Explorer we try to find out about life expectancy , comparing the countries in accordance with population. It is important to know how health issues impact the life expectancy.Why is life expectancy is less ? How to improve it?Can we improve it by reducing polution and having healthy food?
+With using World Development Explorer we try to find out about life expectancy , comparing the countries in accordance with population during a time period of 2010 to 2018. It is important to know how health issues impact the life expectancy.Why is life expectancy is less ? How to improve it?Can we improve it by reducing polution and having healthy food?
 Based on the world development explorer, finding out the health issue and food improvement.A Problem Analysis investigates a situation/problem in order to allow the researcher to understand more fully the problem, in order to recommend practical solutions for solving it.In addition, a Problem Analysis determines the degree of the problem and if the problem is a genuinely related to the specific site under investigated.
 According to World Development Explorer we try to find out similarities and differences between four different countries seleted from different regions such as India,Bangladesh, Unites States and Germany.
 
@@ -28,6 +28,11 @@ India with GDP 7% in 2010 and in 2018 it is decreased to 5%.Bangladesh in in ste
 When comparing life expectancy within high income countries and low income countries we find that high income countries have higher life expectancy compared to low income countries.
 
 ![image](https://user-images.githubusercontent.com/78320047/112743678-61ca8d80-8f67-11eb-9976-002daeb94c8d.png)
+
+It is observed that inflation,consumer prices (annual % ) has indirect relation with Life Expectancy of population. Inflation was high in developing countries like India, Bangladesh which had low life expectancy . Whereas in developed nations like Germany and United States Inflation was low and Life Expectancy was high.
+
+![image](https://user-images.githubusercontent.com/78320047/112743893-4bbdcc80-8f69-11eb-90c6-f0a12b243c1d.png)
+
 
 
 
