@@ -5,7 +5,12 @@ Based on the world development explorer, finding out the health issue and food i
 According to World Development Explorer we try to find out similarities and differences between four different countries seleted from different regions such as India,Bangladesh, Unites States and Germany.
 
 In our first analysis we see life expectancy at birth versus GDP(current US $) with respect to total population.Population comparing with the country wise.
-India has the highest population as well as GDP of less then 10k and life expectancy between 65-70 years.United states has highest GDP around 48-50k and life expectancy of 79 years.Germany population is less compared to other countries. And life expectancy is 81 years and GDP is between 38-40k.Bangladesh has less GDP compared to other countries around 1-2k and life expectancy is 70 years.
+India has the highest population as well as GDP of less then 1.7T and life expectancy between 65-70 years.United states has highest GDP around 14T and life expectancy of 79 years.Germany population is less compared to other countries. And life expectancy is 81 years and GDP is between 3.3T.Bangladesh has less GDP compared to other countries around 115B and life expectancy is 70 years.
 
 (![image](https://user-images.githubusercontent.com/78320047/112743222-73aa3180-8f63-11eb-9174-4d1c3bfbd316.png)
 
+Gross Domestic Product is increasing each year for India. And the population also with life expectancy is increasing also.Compared to other countries in 2018 ,Bangladesh has the highest GDP increase of 44.6%.India is second GDP percentage of 33.2 %.United States is 15.8% GDP.And Germany is least increase of 6.38% increase in GDP.
+
+![image](https://user-images.githubusercontent.com/78320047/112743407-04cdd800-8f65-11eb-842b-e91613ccec58.png)
+
+![image](https://user-images.githubusercontent.com/78320047/112743409-0ac3b900-8f65-11eb-872f-b36c43d96195.png)
