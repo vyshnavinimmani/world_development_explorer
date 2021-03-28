@@ -25,13 +25,16 @@ India with GDP 7% in 2010 and in 2018 it is decreased to 5%.Bangladesh in in ste
 
 ![image](https://user-images.githubusercontent.com/78320047/112743642-09938b80-8f67-11eb-9c03-dc2afe74d02a.png)
 
-When comparing life expectancy within high income countries and low income countries we find that high income countries have higher life expectancy compared to low income countries.
+When comparing life expectancy within high income countries and low income countries we find that high income countries i.e developed nations have higher life expectancy compared to low income countries i.e developing countries.
 
 ![image](https://user-images.githubusercontent.com/78320047/112743678-61ca8d80-8f67-11eb-9976-002daeb94c8d.png)
 
 It is observed that inflation,consumer prices (annual % ) has indirect relation with Life Expectancy of population. Inflation was high in developing countries like India, Bangladesh which had low life expectancy . Whereas in developed nations like Germany and United States Inflation was low and Life Expectancy was high.
 
 ![image](https://user-images.githubusercontent.com/78320047/112743893-4bbdcc80-8f69-11eb-90c6-f0a12b243c1d.png)
+
+To check the table data please visit <http://www.worlddev.xyz/> and data clearly shows that high income developed countries with higher GDP has high Life expectancy compared to low income developing countries with lower GDP.
+
 
 
 
