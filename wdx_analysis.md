@@ -17,4 +17,18 @@ Life expectancy is high in Germany with 26.9 % followed by US with26.1 %. India 
 
 ![image](https://user-images.githubusercontent.com/78320047/112743409-0ac3b900-8f65-11eb-872f-b36c43d96195.png)
 
+Comparing Life expectancy from 2010 to 2018 with country wise.2010- Life Expectancy of Bangladesh from 70 years to 72 years in 2018 . Steep increase in Life Expectancy.Germany Life expectancy in 2010 is 80 years and 2018 is 82 years. Constant and as well as increase in this country.India Life expectancy in 2010 is 67 years and later on little bit increase in 2018 of 69 years.United States is like a constant format of 79 years from 2010-2018
+
+![image](https://user-images.githubusercontent.com/78320047/112743541-32675100-8f66-11eb-9ffb-e62c7b12632d.png)
+
+India with GDP 7% in 2010 and in 2018 it is decreased to 5%.Bangladesh in in steady increase compared from previous year till 2018. In 2010 is from 4.3% to 2018 of 6.7% increase for Bangladesh.Germany is decreasing from 2010 till 2018 . 2010 with 4.3% GDP and sudden decrease in 2011 to 2012. And in 2018 around 1% GDP.United States it is in constant range of GDP from 2010 of 1.8 % and in 2018 of 2.3% GDP.
+
+![image](https://user-images.githubusercontent.com/78320047/112743642-09938b80-8f67-11eb-9c03-dc2afe74d02a.png)
+
+When comparing life expectancy within high income countries and low income countries we find that high income countries have higher life expectancy compared to low income countries.
+
+![image](https://user-images.githubusercontent.com/78320047/112743678-61ca8d80-8f67-11eb-9976-002daeb94c8d.png)
+
+
+
 
