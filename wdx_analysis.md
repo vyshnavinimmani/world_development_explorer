@@ -13,4 +13,8 @@ Gross Domestic Product is increasing each year for India. And the population als
 
 ![image](https://user-images.githubusercontent.com/78320047/112743407-04cdd800-8f65-11eb-842b-e91613ccec58.png)
 
+Life expectancy is high in Germany with 26.9 % followed by US with26.1 %. India following Bangladesh with 23 % and 24 % respectively.
+
 ![image](https://user-images.githubusercontent.com/78320047/112743409-0ac3b900-8f65-11eb-872f-b36c43d96195.png)
+
+
